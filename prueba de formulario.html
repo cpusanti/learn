@@ -1,0 +1,36 @@
+<!DOCTYPE	html>
+<html	lang="es">
+<head>
+				<meta	charset="UTF-8">
+		    	<title>currriculum</title>
+</head>
+ <body>
+      <form action="datos.html" method="post">
+        <label for="nombre">ingrese su nombre:</label>
+        <input type="text" placeholder="escribe tu nombre" maxlength="25" name="nombre" id="nombre"> 
+         <br>
+      elija una de las tres opciones:
+      <select placeholder="tema">
+           <option value="seleccione">--seleccione--</option>
+            <option value="contratarme"> contratame></option>
+            <option value="propuesta"> propuesta</option>
+            <option value="otro"> otro</option>
+      </select>
+         <br>
+        <label for="asunto">asunto:</label>
+        <input type="text" placeholder="te regalo mi dinero" maxlenght="100" name="asunto" id="asunto">
+        <br>
+      escriba su mensaje:
+        <input type="text" placeholder="mensaje" maxlenght="1500" name="mensaje" id="texto"> 
+        <br>
+          por su seguridad ingrese una contraseña:
+        <input type="password" placeholder="contraseña" name="contraseña" id="contraseña">
+        <label for="email">ingrese su correo:</label>
+        <input tyme="email" placeholder="correo electronico" name="email" id="email">
+        <br>
+        <label for="sexo">genero(marque los dos si es otro):</label>
+        <input type="checkbox" name="hombre">Hombre
+        <input type="checkbox" name="mujer">mujer
+        <br><br>
+        <input type="submit" value=enviar>
+          </form>

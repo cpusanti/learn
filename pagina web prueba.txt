@@ -1,0 +1,47 @@
+<!DOCTYPE	html>
+<html	lang="es">
+<head>
+				<meta	charset="UTF-8">
+		    	<title>TUSERVICIOSVARIOS</title>
+</head>
+<body>
+             <h1>¿QUÉ OFRECEMOS?</h1>
+             <p> 
+             todos nuestros servicios son de alta calidad 
+             <br> pero recuerda que <em>no somos profesionales </em> 
+             <br>esos <strong> precios irresistibles</strong>
+             </p>
+             <h2>Limpieza</h2>
+             <p> 
+             aqui ofrecemos diferentes servicios,
+             <br> desde limpieza propiamente dicha a<strong> vaciado de casas</strong>
+             </p>
+             <br> <h3> servicios disponibles </h3>
+             <ul>
+                <li> limpieza de casas </li>
+                <li> vaciado de altillos o trasteros </li>
+             </ul>
+             <h2>clases</h2>
+             <p>
+              Tenemos clases orientadas tanto <strong> niños como mayores </strong>
+              </p>
+              <h3> clases diponibles </h3>
+              <ul>
+                <li> refuerzo escolar </li>
+                <li> llevate bien con internet </li>   
+             </ul>    
+             <h2>diseño web</h2>
+             <h2>administración de redes sociales o webs</h2>
+             <h2>cuidados</h2>
+             <h1> ¿DE QUIEN ES ESTA EMPRESA </h1>
+             <p> Esta empresa es de diferentes personas </p>
+             <ol>
+                <li> Santiago García (CEO, rey del mundo XD, el que se forra) </li>
+                <li> Lorenzo (No hace nada pero da dinero) </li>
+                <li> manuel (trabaja y no gana dinero)</li>
+             </ol>
+             
+
+</body>
+</html>
+
